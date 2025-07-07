@@ -1,5 +1,8 @@
 # Repositori Kercerdasan Buatan - Fernando Perry (233406005)
 
+## Prolog Expert-System
+Bisa diakses pada : [Prolog](./prolog/README.md)
+
 ## NLP Distance Map
 Bisa diakses pada : [NLP Distance](./distance/README.md)
 
