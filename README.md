@@ -1,5 +1,8 @@
 # Repositori Kercerdasan Buatan - Fernando Perry (233406005)
 
+## FGD AI
+Bisa diakses pada : [FGD AI](./fgd/README.md)
+
 ## Ganteng atau Jelek
 Bisa diakses pada : [Ganteng Regcogniton](./ganteng/README.md)
 
