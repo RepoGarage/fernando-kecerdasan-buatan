@@ -1,5 +1,8 @@
 # Repositori Kercerdasan Buatan - Fernando Perry (233406005)
 
+## Recreation of Music Detection from Book
+Bisa diakses pada : [music detection](./musdec/README.md)
+
 ## Prolog Expert-System
 Bisa diakses pada : [Prolog](./prolog/README.md)
 
