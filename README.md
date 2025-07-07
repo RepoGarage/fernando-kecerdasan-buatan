@@ -12,6 +12,9 @@ Bisa diakses pada : [Kercerdasan Buatan Basic 2](./basic2/README.md)
 ## Recreation of Music Detection from Book
 Bisa diakses pada : [music detection](./musdec/README.md)
 
+## MBTI app
+Bisa diakses pada : [MBTI App](./mbti/README.md)
+
 ## Prolog Expert-System
 Bisa diakses pada : [Prolog](./prolog/README.md)
 
