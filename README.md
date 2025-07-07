@@ -1,5 +1,14 @@
 # Repositori Kercerdasan Buatan - Fernando Perry (233406005)
 
+## Deep Learning 🧑‍🎓🌊
+Bisa diakses pada : [Deep Learning](./deepl/README.md)
+
+## Kercerdasan Buatan basic
+Bisa diakses pada : [Kercerdasan Buatan Basic](./basic/README.md)
+
+## Kercerdasan Buatan basic 2
+Bisa diakses pada : [Kercerdasan Buatan Basic 2](./basic2/README.md)
+
 ## Recreation of Music Detection from Book
 Bisa diakses pada : [music detection](./musdec/README.md)
 
